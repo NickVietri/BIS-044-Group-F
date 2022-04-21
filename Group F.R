@@ -1,4 +1,4 @@
-readfile <- read.csv("C:/Users/nickv/Desktop/GitKraken Repo/BIS-044-Group-F/Group F Data.csv")
+readfile <- read.csv("Group F Data.csv")
 
 plot(x=readfile$Year,
      y=readfile$Actual.Temp..Celsius.,
